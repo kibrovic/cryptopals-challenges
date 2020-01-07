@@ -18,7 +18,7 @@ XOR on resulting text with same key needs to return the sample text
 
 ### S1C3: Single-byte
 
-`signle-byte-xor.py' file
+`single-byte-xor.py` file
 
 Brute force sample with English Alphabet letters and find the most logical result. This should be done using probability and one day it might.
 
